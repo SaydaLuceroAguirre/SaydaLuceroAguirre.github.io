@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saydaluceroaguirre.github.io/sitemap.xml
