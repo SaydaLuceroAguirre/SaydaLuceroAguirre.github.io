@@ -1,4 +1,4 @@
-# Portafolio de Sayda Aguirre Postillón
+# Portafolio de Sayda Lucero Aguirre Postillón
 
 Proyectos de mejora de procesos y automatización (Excel, Office Scripts y Power Automate).
 
